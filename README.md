@@ -9,4 +9,7 @@ A step-by-step on how to build an interactive website from [codeschool.com](http
     -   `main.css`
     -   `app.js`
 
+## The Index
 
+-   website will be divide into two sections: header and main
+-   posts would go with an ordered list
