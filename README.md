@@ -19,3 +19,6 @@ A step-by-step on how to build an interactive website from [codeschool.com](http
 -  normalize: we want to reset the default stylesheets in order to build our own style
 -  good idea to use color meter to have a good reference for the colors which we want to use
 -  define base styles
+-  add classes to the html
+-  CSS properties are laid out alphabetically; some people order attributes by design attributes
+-  a lot of tweaking in order to get the effect that we want
