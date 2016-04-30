@@ -13,3 +13,8 @@ A step-by-step on how to build an interactive website from [codeschool.com](http
 
 -   website will be divide into two sections: header and main
 -   posts would go with an ordered list
+
+## The CSS
+
+-  normalize: we want to reset the default stylesheets in order to build our own style
+-
