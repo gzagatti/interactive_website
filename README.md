@@ -41,3 +41,8 @@ A step-by-step on how to build an interactive website from [codeschool.com](http
 ### Form Field for Adding New Stories
 
 ### jQuery
+
+-   we can use cdn to link jQuery and given the browser's cacheing capabilities it won't need to re-download just for your website
+-   add code to the bottom of the page
+-   we should reference js-* classes only to js file and do not reference it in the CSS
+-   is-* style CSS classes are good to reference transitioned states
