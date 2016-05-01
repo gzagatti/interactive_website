@@ -2,19 +2,21 @@
 
 A step-by-step on how to build an interactive website from [codeschool.com](https://www.codeschool.com/screencasts/build-an-interactive-website-part-1)
 
-## First Steps
+## Part I
+
+### First Steps
 
 -  Start with 3 files:
     -   `index.html`
     -   `main.css`
     -   `app.js`
 
-## The Index
+### The Index
 
 -   website will be divide into two sections: header and main
 -   posts would go with an ordered list
 
-## The CSS
+### The CSS
 
 -  normalize: we want to reset the default stylesheets in order to build our own style
 -  good idea to use color meter to have a good reference for the colors which we want to use
@@ -23,6 +25,14 @@ A step-by-step on how to build an interactive website from [codeschool.com](http
 -  CSS properties are laid out alphabetically; some people order attributes by design attributes
 -  a lot of tweaking in order to get the effect that we want
 
-## The List
+### The List
 
 -  classes should be used to logically structure the html document
+
+## Part II
+
+### Metadata to Each Story
+
+### Form Field for Adding New Stories
+
+### jQuery
