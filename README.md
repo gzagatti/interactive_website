@@ -33,6 +33,11 @@ A step-by-step on how to build an interactive website from [codeschool.com](http
 
 ### Metadata to Each Story
 
+-   an unordered list is added with relevant metadata
+-   we add a specific class to each metadata item
+-   we set the display to inline and add some margin
+-   fonts can be added from Google fonts
+
 ### Form Field for Adding New Stories
 
 ### jQuery
