@@ -47,3 +47,6 @@ A step-by-step on how to build an interactive website from [codeschool.com](http
 
 ### Form Field for Adding New Stories
 
+-   need to inspect the element to see why the width of the form exceeds that of the rest of the container; the answer lies in the box size
+-   to hide the form we need to set the opacity and visibility options off as well as set the height to 0; otherwise there would an empty space on the page
+-   we need to add js classes
