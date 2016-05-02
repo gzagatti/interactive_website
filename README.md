@@ -50,3 +50,17 @@ A step-by-step on how to build an interactive website from [codeschool.com](http
 -   need to inspect the element to see why the width of the form exceeds that of the rest of the container; the answer lies in the box size
 -   to hide the form we need to set the opacity and visibility options off as well as set the height to 0; otherwise there would an empty space on the page
 -   we need to add js classes
+
+## Part 3
+
+### HTML Setup
+
+-   we'll design a modal popup
+-   the HTML markup is placed just after the content's subheader
+
+### CSS
+
+-   we use absolute positioning which places above the parent's container
+-   `left: 50%`: from the left edge of the container move it 50% of the width; then translate 50% which will place you 25% in the center
+-   making text display on the picture is playing with position absolute and relative
+-   `position: fixed` will stick the overlay on all four corners of the browser
